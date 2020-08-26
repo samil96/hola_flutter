@@ -34,6 +34,7 @@ class _HomeState extends State<Home> {
           "About APP",
           textAlign: TextAlign.center,
         ),
+        centerTitle: true,
       ),
       body: cuerpo(),
     );
